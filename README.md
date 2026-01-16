@@ -1,0 +1,2 @@
+Global Superstore Data Cleaning Project
+This project demonstrates end-to-end data cleaning using a Global Superstore–style dataset. The raw data contains missing values, duplicates, inconsistent text, and incorrect numeric formats. Using Excel, the dataset was cleaned by handling nulls, removing duplicates, standardizing text, fixing date and numeric formats, and adding data quality notes. The final cleaned dataset is exported in both Excel and CSV formats for further analysis and visualization.
